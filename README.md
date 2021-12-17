@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaoepj
 - 👀 I’m interested in softwarized networks management and operation. This translates into openFlow, P4, SDN, NFV, Cloud, network programming languages and information/networking api modeling (YANG).
-- 🌱 With solid experience in network and systems administration. I’m currently getting used to DevOps technologies and best practices (docker, kubernetes, Go)
+- 🌱 With solid experience in network and systems administration. I’m currently getting used to DevOps technologies and best practices (docker, kubernetes, Go, git)
 - 💞️ I’m looking to collaborate on TMFORUM's Open Digital Framework/Architecture ODF/ODA ecosystem including vendor's products and telecom's services developments
 - 📫 You can reach me over the Internet
 
