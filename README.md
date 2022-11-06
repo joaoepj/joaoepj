@@ -1,4 +1,6 @@
-- 👋 Hi, I’m <h1>João Eurípedes Pereira Júnior</h1> k.o.a[^1] @joaoepj
+- 👋 Hi, I’m <h1>João Eurípedes Pereira Júnior</h1>
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 - 👀 I’m interested in ... you know what? there are so many things out there...
 - 🌱 With some professional and academic experience in network and systems administration.
 -  :rocket: I’m currently getting used to cloud native and web3 things while transitiong to a DevOps | S.R.E career
