@@ -1,11 +1,10 @@
 - 👋 Hi, I’m <h1>João Eurípedes Pereira Júnior</h1>
 ![](https://github.com/joaoepj/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/joaoepj/github-stats/blob/master/generated/languages.svg)
-- 👀 I’m interested in ... you know what? there are so many things out there...
+- 💞️ I’m a spare time linguist (computer languages included) and paraglider pilot
 - 🌱 With some professional and academic experience in network and systems administration.
--  :rocket: I’m currently getting used to cloud native and web3 things while transitiong to a DevOps | S.R.E career
-- 💞️ I’m looking to learn go, algorithms, docker, kubernetes
-- 📫 You can reach me over the Internet
+-  :rocket: I’m currently getting used to DevOps and Cloud Native things
+- 📫 [joao at ufu.br](mailto:joao@ufu.br)
 
 
 <!---
