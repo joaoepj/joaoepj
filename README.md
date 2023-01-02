@@ -4,7 +4,7 @@
 - 💞️ I’m a spare time linguist (computer languages included) and paraglider pilot
 - 🌱 With some professional and academic experience in network and systems administration.
 -  :rocket: I’m currently getting used to DevOps and Cloud Native things
-- 📫 [joao at ufu.br](mailto:joao@ufu.br)
+- 📫 [joao at ufu.br](mailto:joao@ufu.br) or [joaoepjat gmail.com](mailto:joaoepj@gmail.com)
 
 
 <!---
