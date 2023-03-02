@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <h1>João Eurípedes Pereira Júnior</h1>
 ![](https://github.com/joaoepj/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/joaoepj/github-stats/blob/master/generated/languages.svg)
-- 💞️ I’m a spare time linguist (computer languages included) and paraglider pilot
+- 💞️ I’m a spare time linguist (computer languages included) and a paraglider pilot
 - 🌱 With some professional and academic experience in network and systems administration.
 -  :rocket: I’m currently getting used to DevOps and Cloud Native things
 
