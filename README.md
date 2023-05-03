@@ -1,9 +1,9 @@
 - 👋 Hi, I’m <h1>João Eurípedes Pereira Júnior</h1>
 ![](https://github.com/joaoepj/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/joaoepj/github-stats/blob/master/generated/languages.svg)
-- 💞️ I’m a spare time linguist (computer languages included) and a paraglider pilot
-- 🌱 With some professional and academic experience in network and systems administration.
--  :rocket: I’m currently getting used to DevOps and Cloud Native things
+- 💞️ I’m a Senior Network and Systems Engineer
+- 🌱 Migrating to Software Engineer career
+-  :rocket: I’m currently learning Go and Algorithms
 
 <!---
 joaoepj/joaoepj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
